@@ -1,4 +1,4 @@
-name: test
+name: LAG
 topology:
   nodes:
     spine1:
